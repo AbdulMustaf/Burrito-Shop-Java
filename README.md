@@ -1,7 +1,7 @@
 # My Burrito Shop Lab
 
 ## Overview
-The **My Burrito Shop Lab** project is a Java-based simulation of a burrito shop. The system allows users to manage orders, make burritos, ring out transactions, and handle dirty dishes. The project is interactive, allowing users to perform shop operations using a console-based menu.
+The **My Burrito Shop Lab** project is a school lab Java-based simulation of a burrito shop. The system allows users to manage orders, make burritos, ring out transactions, and handle dirty dishes. The project is interactive, allowing users to perform shop operations using a console-based menu.
 
 ---
 
